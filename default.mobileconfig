@@ -24,15 +24,15 @@
 			<key>PayloadDisplayName</key>
 			<string>Wi-Fi</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.FF47799B-FC49-49BF-9AE5-E8BD6EE2C2A0</string>
+			<string>com.apple.wifi.managed.5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>FF47799B-FC49-49BF-9AE5-E8BD6EE2C2A0</string>
+			<string>5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
-			<string>10.0.0.10</string>
+			<string>192.168.6.242</string>
 			<key>ProxyServerPort</key>
 			<integer>7890</integer>
 			<key>ProxyType</key>
@@ -42,15 +42,15 @@
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>proxy2</string>
+	<string>悟空的代理文件</string>
 	<key>PayloadIdentifier</key>
-	<string>guoxuedeMacBook-Pro.7ABE172D-B832-49C3-9A21-53DF21C18B92</string>
+	<string>wudeiMac.BC9F759D-DB99-4123-8605-68C1EB0DBFAF</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>22AFF0C5-A136-458E-A034-60EBBD011390</string>
+	<string>5DD13570-9508-461A-B91C-327487D35681</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
